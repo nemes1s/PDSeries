@@ -1,0 +1,2 @@
+com/example/pdseries/shared/BuildConfig.java
+ com.example.pdseries.shared.BuildConfig
